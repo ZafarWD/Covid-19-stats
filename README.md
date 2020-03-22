@@ -1,3 +1,7 @@
+## Covid-19 stats
+Provides tabulated data of each country. The data is generated from a json api "https://pomber.github.io/covid19/timeseries.json".
+Contains a searchbox to search by country name.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
